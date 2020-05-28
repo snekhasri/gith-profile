@@ -1,0 +1,22 @@
+<style>
+    .site-header{
+    background-color:#1bbc;
+    color:black;
+    height:100vh;
+    font-family: monospace;
+
+}
+.site-text{
+    margin: 10px;
+}
+.text{
+    border-radius: 60%;
+    width: 200px;
+    height: 200px;
+    
+}
+
+body{
+    margin: 0%;
+}
+</style>
